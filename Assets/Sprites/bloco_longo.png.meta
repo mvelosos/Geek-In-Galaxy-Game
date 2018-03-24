@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 6f2940d564c12844a9f33965b419923f
+timeCreated: 1461646099
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bloco_longo_0
+    21300002: bloco_longo_1
+    21300004: bloco_longo_2
+    21300006: bloco_longo_3
+    21300008: bloco_longo_4
+    21300010: bloco_longo_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bloco_longo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -205}
+        - {x: 72, y: -202}
+        - {x: 77, y: -191}
+        - {x: 81, y: -172}
+        - {x: 84, y: -172}
+        - {x: 100, y: -169}
+        - {x: 102, y: -167}
+        - {x: 103, y: -134}
+        - {x: 104, y: -86}
+        - {x: 105, y: -33}
+        - {x: 105, y: 20}
+        - {x: 106, y: 21}
+        - {x: 107, y: 74}
+        - {x: 107, y: 126}
+        - {x: 108, y: 127}
+        - {x: 108, y: 179}
+        - {x: 109, y: 180}
+        - {x: 109, y: 237}
+        - {x: 91, y: 246}
+        - {x: -106, y: 246}
+        - {x: -108, y: 244}
+        - {x: -108, y: 20}
+        - {x: -107, y: 19}
+        - {x: -107, y: -158}
+        - {x: -105, y: -171}
+        - {x: -103, y: -196}
+        - {x: -101, y: -198}
+        - {x: -84, y: -205}
+        - {x: -56, y: -215}
+        - {x: -32, y: -201}
+        - {x: -27, y: -201}
+        - {x: -17, y: -218}
+        - {x: -5, y: -237}
+        - {x: 1, y: -246}
+        - {x: 6, y: -246}
+        - {x: 32, y: -225}
+        - {x: 43, y: -215}
+        - {x: 54, y: -212}
+    - name: bloco_longo_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -205}
+        - {x: 72, y: -202}
+        - {x: 77, y: -191}
+        - {x: 81, y: -172}
+        - {x: 84, y: -172}
+        - {x: 100, y: -169}
+        - {x: 102, y: -167}
+        - {x: 103, y: -134}
+        - {x: 104, y: -86}
+        - {x: 105, y: -33}
+        - {x: 106, y: 21}
+        - {x: 109, y: 180}
+        - {x: 109, y: 237}
+        - {x: 91, y: 246}
+        - {x: -106, y: 246}
+        - {x: -108, y: 244}
+        - {x: -108, y: 20}
+        - {x: -107, y: 19}
+        - {x: -107, y: -143}
+        - {x: -113, y: -150}
+        - {x: -114, y: -156}
+        - {x: -114, y: -164}
+        - {x: -113, y: -165}
+        - {x: -106, y: -164}
+        - {x: -103, y: -197}
+        - {x: -101, y: -198}
+        - {x: -84, y: -205}
+        - {x: -56, y: -215}
+        - {x: -32, y: -201}
+        - {x: -27, y: -201}
+        - {x: -17, y: -218}
+        - {x: -5, y: -237}
+        - {x: 1, y: -246}
+        - {x: 6, y: -246}
+        - {x: 32, y: -225}
+        - {x: 43, y: -215}
+        - {x: 54, y: -212}
+    - name: bloco_longo_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -205}
+        - {x: 72, y: -202}
+        - {x: 77, y: -191}
+        - {x: 81, y: -172}
+        - {x: 84, y: -172}
+        - {x: 100, y: -169}
+        - {x: 102, y: -167}
+        - {x: 103, y: -134}
+        - {x: 104, y: -86}
+        - {x: 105, y: -33}
+        - {x: 105, y: 20}
+        - {x: 106, y: 21}
+        - {x: 107, y: 74}
+        - {x: 107, y: 126}
+        - {x: 108, y: 127}
+        - {x: 108, y: 179}
+        - {x: 109, y: 180}
+        - {x: 109, y: 237}
+        - {x: 91, y: 246}
+        - {x: -106, y: 246}
+        - {x: -108, y: 244}
+        - {x: -108, y: 20}
+        - {x: -107, y: 19}
+        - {x: -107, y: -158}
+        - {x: -105, y: -171}
+        - {x: -103, y: -196}
+        - {x: -101, y: -198}
+        - {x: -84, y: -205}
+        - {x: -56, y: -215}
+        - {x: -32, y: -201}
+        - {x: -27, y: -201}
+        - {x: -17, y: -218}
+        - {x: -5, y: -237}
+        - {x: 1, y: -246}
+        - {x: 6, y: -246}
+        - {x: 32, y: -225}
+        - {x: 43, y: -215}
+        - {x: 54, y: -212}
+    - name: bloco_longo_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -205}
+        - {x: 72, y: -202}
+        - {x: 77, y: -191}
+        - {x: 81, y: -172}
+        - {x: 84, y: -172}
+        - {x: 100, y: -169}
+        - {x: 102, y: -167}
+        - {x: 103, y: -134}
+        - {x: 104, y: -86}
+        - {x: 105, y: -33}
+        - {x: 105, y: 20}
+        - {x: 106, y: 21}
+        - {x: 107, y: 74}
+        - {x: 107, y: 126}
+        - {x: 108, y: 127}
+        - {x: 108, y: 179}
+        - {x: 109, y: 180}
+        - {x: 109, y: 237}
+        - {x: 91, y: 246}
+        - {x: -106, y: 246}
+        - {x: -108, y: 244}
+        - {x: -108, y: 20}
+        - {x: -107, y: 19}
+        - {x: -107, y: -158}
+        - {x: -105, y: -171}
+        - {x: -103, y: -196}
+        - {x: -101, y: -198}
+        - {x: -84, y: -205}
+        - {x: -56, y: -215}
+        - {x: -32, y: -201}
+        - {x: -27, y: -201}
+        - {x: -17, y: -218}
+        - {x: -5, y: -237}
+        - {x: 1, y: -246}
+        - {x: 6, y: -246}
+        - {x: 32, y: -225}
+        - {x: 43, y: -215}
+        - {x: 54, y: -212}
+    - name: bloco_longo_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -205}
+        - {x: 72, y: -202}
+        - {x: 77, y: -191}
+        - {x: 81, y: -172}
+        - {x: 84, y: -172}
+        - {x: 100, y: -169}
+        - {x: 102, y: -167}
+        - {x: 103, y: -134}
+        - {x: 104, y: -86}
+        - {x: 105, y: -33}
+        - {x: 105, y: 20}
+        - {x: 106, y: 21}
+        - {x: 107, y: 74}
+        - {x: 107, y: 126}
+        - {x: 108, y: 127}
+        - {x: 108, y: 179}
+        - {x: 109, y: 180}
+        - {x: 109, y: 237}
+        - {x: 91, y: 246}
+        - {x: -106, y: 246}
+        - {x: -108, y: 244}
+        - {x: -108, y: 20}
+        - {x: -107, y: 19}
+        - {x: -107, y: -158}
+        - {x: -105, y: -171}
+        - {x: -103, y: -196}
+        - {x: -101, y: -198}
+        - {x: -84, y: -205}
+        - {x: -56, y: -215}
+        - {x: -32, y: -201}
+        - {x: -27, y: -201}
+        - {x: -17, y: -218}
+        - {x: -5, y: -237}
+        - {x: 1, y: -246}
+        - {x: 6, y: -246}
+        - {x: 32, y: -225}
+        - {x: 43, y: -215}
+        - {x: 54, y: -212}
+    - name: bloco_longo_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -205}
+        - {x: 72, y: -202}
+        - {x: 77, y: -191}
+        - {x: 81, y: -172}
+        - {x: 84, y: -172}
+        - {x: 100, y: -169}
+        - {x: 102, y: -167}
+        - {x: 103, y: -134}
+        - {x: 104, y: -86}
+        - {x: 105, y: -33}
+        - {x: 105, y: 20}
+        - {x: 106, y: 21}
+        - {x: 107, y: 74}
+        - {x: 107, y: 126}
+        - {x: 108, y: 127}
+        - {x: 108, y: 179}
+        - {x: 109, y: 180}
+        - {x: 109, y: 237}
+        - {x: 91, y: 246}
+        - {x: -106, y: 246}
+        - {x: -108, y: 244}
+        - {x: -108, y: 20}
+        - {x: -107, y: 19}
+        - {x: -107, y: -158}
+        - {x: -105, y: -171}
+        - {x: -103, y: -196}
+        - {x: -101, y: -198}
+        - {x: -84, y: -205}
+        - {x: -56, y: -215}
+        - {x: -32, y: -201}
+        - {x: -27, y: -201}
+        - {x: -17, y: -218}
+        - {x: -5, y: -237}
+        - {x: 1, y: -246}
+        - {x: 6, y: -246}
+        - {x: 32, y: -225}
+        - {x: 43, y: -215}
+        - {x: 54, y: -212}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
